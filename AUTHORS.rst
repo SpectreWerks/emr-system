@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* SpectreWerks <info@spectrewerks.com>
+* Chris Coe <chris@spectrewerks.com>
 
 Contributors
 ------------
